@@ -5,6 +5,10 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
-}
+    plugins: [
+        "gatsby-plugin-styled-components",
+        "gatsby-plugin-eslint",
+        "gatsby-transformer-remark",
+        "gatsby-plugin-react-helmet",
+    ],
+};
