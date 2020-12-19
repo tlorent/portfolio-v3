@@ -6,9 +6,9 @@
 
 module.exports = {
     plugins: [
-        "gatsby-plugin-styled-components",
-        "gatsby-plugin-eslint",
-        "gatsby-transformer-remark",
-        "gatsby-plugin-react-helmet",
+        'gatsby-plugin-styled-components',
+        'gatsby-plugin-eslint',
+        'gatsby-transformer-remark',
+        'gatsby-plugin-react-helmet',
     ],
 };
